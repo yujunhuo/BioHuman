@@ -10,7 +10,7 @@ const bibtex = `@article{huo2026biohuman,
   journal = {arXiv preprint arXiv:2605.14772},
   year    = {2026}
 }`;
-const media = (title,path,type='video') => `<figure class="media-slot" data-path="${path}" data-type="${type}"><div class="placeholder"><span>${type==='video'?'▶':'▧'}</span><b>${title}</b><small>${path}</small></div></figure>`;
+const media = (title,path,type='video') => `<figure class="media-slot" data-path="${path}" data-type="${type}"><div class="placeholder" role="status" aria-label="Loading ${title}"><span class="loading-spinner" aria-hidden="true"></span></div></figure>`;
 
 document.querySelector('#root').innerHTML = `
 <main>
