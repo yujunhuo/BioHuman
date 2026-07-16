@@ -20,7 +20,7 @@ document.querySelector('#root').innerHTML = `
     <div class="affiliations"><sup>1</sup> Beihang University &nbsp;&nbsp;&nbsp; <sup>2</sup> Tsinghua University</div>
     <div class="contribution"><span><sup>*</sup> Equal contribution.</span><span><sup>†</sup> Corresponding authors.</span></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2605.14772" target="_blank"><b>▤</b> Paper</a>
+      <a href="https://arxiv.org/pdf/2605.14772" target="_blank"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i> Paper</a>
       <a href="https://arxiv.org/abs/2605.14772" target="_blank"><img class="brand-icon" src="https://cdn.simpleicons.org/arxiv/ffffff" alt=""> arXiv</a>
       <span class="soon-link"><a href="#" aria-disabled="true"><img class="brand-icon" src="https://cdn.simpleicons.org/github/ffffff" alt=""> Code</a><i>Coming soon</i></span>
       <span class="soon-link"><a href="#" aria-disabled="true"><b>▦</b> Dataset</a><i>Coming soon</i></span>
