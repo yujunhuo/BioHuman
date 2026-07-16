@@ -22,8 +22,8 @@ document.querySelector('#root').innerHTML = `
     <div class="links">
       <a href="https://arxiv.org/pdf/2605.14772" target="_blank"><i class="fa-solid fa-file-pdf" aria-hidden="true"></i> Paper</a>
       <a href="https://arxiv.org/abs/2605.14772" target="_blank"><img class="brand-icon" src="https://cdn.simpleicons.org/arxiv/ffffff" alt=""> arXiv</a>
-      <span class="soon-link"><a href="#" aria-disabled="true"><img class="brand-icon" src="https://cdn.simpleicons.org/github/ffffff" alt=""> Code</a><i>Coming soon</i></span>
-      <span class="soon-link"><a href="#" aria-disabled="true"><b>▦</b> Dataset</a><i>Coming soon</i></span>
+      <span class="soon-link"><a role="button" aria-disabled="true"><img class="brand-icon" src="https://cdn.simpleicons.org/github/ffffff" alt=""> Code</a><i>Coming soon</i></span>
+      <span class="soon-link"><a role="button" aria-disabled="true"><b>▦</b> Dataset</a><i>Coming soon</i></span>
       <a href="#bibtex"><b>“</b> BibTeX</a>
     </div>
   </section>
