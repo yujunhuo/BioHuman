@@ -1,5 +1,5 @@
 const authors = [
-  ['Yujun Huo','*1',''], ['He Zhang','*2','https://dblp.org/pid/24/2058-15.html'],
+  ['Yujun Huo','*1','https://yujunhuo.github.io/'], ['He Zhang','*2','https://dblp.org/pid/24/2058-15.html'],
   ['Chentao Song','2','https://chentao-song.github.io/'],
   ['Honglin Song','2',''], ['Zongyu Zuo','†1','https://shi.buaa.edu.cn/zuozongyu/zh_CN/index.htm'],
   ['Tao Yu','†2','https://ytrock.com/']
